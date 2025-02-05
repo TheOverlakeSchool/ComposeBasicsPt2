@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="tasks_text">All tasks completed</string>
+    <string name="compliment_text">Nice work!</string>
 </resources>
